@@ -1,3 +1,7 @@
+"""
+author: Joseph Loeffler
+"""
+
 import random
 
 trials = 1000000
